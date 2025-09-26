@@ -58,7 +58,7 @@ Projects: **Eskan Bank – Bahrain, Education & Training Quality Authority – B
 
 ## 📌 Featured Projects
 
-🔹 **[Voice Based Email System for Visually Challenged (Awarded as 'Best Project')](#)**  
+🔹 **[Voice Based Email System for Visually Challenged (Awarded as 'Best Project')](https://github.com/jeniya-majeed/Alumni-network-portal.git)**  
 Designed to assist visually challenged users in composing, sending, and managing emails through voice commands. The system leverages speech recognition and text-to-speech technologies to enable a seamless, hands-free email experience.
 *Technologies & Libraries Used* - Django , SpeechRecognition , pyttsx3 , gTTS , smtplib , IMAPClient , HTML & CSS 
 
