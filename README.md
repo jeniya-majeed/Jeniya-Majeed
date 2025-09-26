@@ -46,7 +46,7 @@ Strong problem-solving, communication, and teamwork skills with exposure to **mu
 
 Projects: **Eskan Bank – Bahrain, Education & Training Quality Authority – Bahrain, Dubai Yacht Booking Portal**  
 
-- Developed and maintained **enterprise-grade full-stack applications** using Spring Boot, Django, and Angular.  
+- Developed and maintained **enterprise-grade full-stack applications** using *Spring Boot and Angular*.  
 - Built **multilingual (Arabic/English) PDF rendering systems** with jsPDF and AutoTable, ensuring compliance with Middle East market requirements.
 - Designed and implemented backend services for the Dubai Yacht Booking Portal, including booking workflows, role-based access control, and AWS SES email notifications.
 - Managed **MySQL** and **MS SQL Server** databases, delivering secure and optimized solutions.  
