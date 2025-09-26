@@ -66,14 +66,10 @@ Designed to assist visually challenged users in composing, sending, and managing
 *Django + Python + AI* — Extracts text from PDFs/Images with OCR integration.  
 
 🔹 **[Alumni Network Portal](#)**  
-*Spring Boot + Angular + MS SQL Server + AWS S3/SES* —  
-Enterprise mortgage management system with **secure APIs, JWT authentication, automated PDF reporting, and AWS cloud integration**. Improved loan workflow efficiency and reduced manual paperwork by 60%.  
-
-🔹 **[Education & Training Quality Authority – QMS - Bahrain ](#)**  
 Developed an Alumni Network Portal as an academic project using Python and Django to connect alumni with current students and faculty.
-*Technologies & Libraries Used* - Django, Django REST Framework (DRF) , Bootstrap , Pillow  
+*Technologies & Libraries Used* - Django, Django REST Framework (DRF) , Bootstrap , Pillow   
 
-
+ 
 ## 📫 Connect With Me
 - 📧 Email: [jeniyamajeed0002@gmail.com]
 - 💼 LinkedIn: [[jeniya-majeed](https://www.linkedin.com/in/jeniya-majeed-t-372b0a246)](#)  
