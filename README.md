@@ -2,8 +2,6 @@
 
 **Software Engineer | Full Stack Developer | Project Manager Enthusiast**
 
- 📧 jeniyamajeed0002@gmail.com | 📱 +974 31338014  / +91 7736422177
-
 ---
 
 ## 👩‍💻 About Me
@@ -72,7 +70,7 @@ Developed an Alumni Network Portal as an academic project using Python and Djang
  
 ## 📫 Connect With Me
 - 📧 Email: [jeniyamajeed0002@gmail.com]
-- 💼 LinkedIn: [[jeniya-majeed](https://www.linkedin.com/in/jeniya-majeed-t-372b0a246)](#)  
+- 💼 LinkedIn: [[jeniya-majeed](https://www.linkedin.com/in/jeniya-majeed-t-372b0a246)] 
 
 ---
 ⭐️ *“Code with clarity, design with purpose, deliver with impact.”*
