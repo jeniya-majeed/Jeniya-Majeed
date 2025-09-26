@@ -29,8 +29,9 @@ Strong problem-solving, communication, and teamwork skills with exposure to **mu
 
 ### 🔧 Tools & CI/CD
 - Git, GitHub Actions  
-- Swagger, JsPDF, AutoTable  
-- Microsoft Visio  
+- Swagger
+- Microsoft Visio
+- Jira
 
 ### 📈 Methodologies
 - Agile, Scrum  
