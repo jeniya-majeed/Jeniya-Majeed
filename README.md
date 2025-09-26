@@ -2,7 +2,7 @@
 
 **Software Engineer | Full Stack Developer | Project Manager Enthusiast**
 
- 📧 jeniyamajeed0002@gmail.com | 📱 +974 31338014  
+ 📧 jeniyamajeed0002@gmail.com | 📱 +974 31338014  / +91 7736422177
 
 ---
 
