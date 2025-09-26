@@ -58,14 +58,14 @@ Projects: **Eskan Bank – Bahrain, Education & Training Quality Authority – B
 
 ## 📌 Featured Projects
 
-🔹 **[Voice Based Email System for Visually Challenged (Awarded as 'Best Project')](https://github.com/jeniya-majeed/Alumni-network-portal.git)**  
+🔹 **[Voice Based Email System for Visually Challenged (Awarded as 'Best Project')](#)**  
 Designed to assist visually challenged users in composing, sending, and managing emails through voice commands. The system leverages speech recognition and text-to-speech technologies to enable a seamless, hands-free email experience.
 *Technologies & Libraries Used* - Django , SpeechRecognition , pyttsx3 , gTTS , smtplib , IMAPClient , HTML & CSS 
 
 🔹 **[Django AI Text Extractor](#)**  
 *Django + Python + AI* — Extracts text from PDFs/Images with OCR integration.  
 
-🔹 **[Alumni Network Portal](#)**  
+🔹 **[Alumni Network Portal](https://github.com/jeniya-majeed/Alumni-network-portal.git)**  
 Developed an Alumni Network Portal as an academic project using Python and Django to connect alumni with current students and faculty.
 *Technologies & Libraries Used* - Django, Django REST Framework (DRF) , Bootstrap , Pillow   
 
