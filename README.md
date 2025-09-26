@@ -74,8 +74,7 @@ Quality Management System for handling **institutional listing, revalidation, an
 
 ## 📫 Connect With Me
 - 📧 Email: [jeniyamajeed0002@gmail.com]
-- 💼 LinkedIn: [[linkedin.com/in/your-link](https://www.linkedin.com/in/jeniya-majeed-t-372b0a246)](#)  
-- 🌐 Portfolio: *(add link if you deploy a GitHub Pages site)*  
+- 💼 LinkedIn: [[jeniya-majeed](https://www.linkedin.com/in/jeniya-majeed-t-372b0a246)](#)  
 
 ---
 ⭐️ *“Code with clarity, design with purpose, deliver with impact.”*
