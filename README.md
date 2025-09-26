@@ -58,19 +58,20 @@ Projects: **Eskan Bank – Bahrain, Education & Training Quality Authority – B
 
 ## 📌 Featured Projects
 
-🔹 **[Yacht Booking Portal - Dubai](#)**  
-*Spring Boot + Angular + PostgreSQL* — Full-stack booking system demo with JWT authentication.  
+🔹 **[Voice Based Email System for Visually Challenged (Awarded as 'Best Project')](#)**  
+Designed to assist visually challenged users in composing, sending, and managing emails through voice commands. The system leverages speech recognition and text-to-speech technologies to enable a seamless, hands-free email experience.
+*Technologies & Libraries Used* - Django , SpeechRecognition , pyttsx3 , gTTS , smtplib , IMAPClient , HTML & CSS 
 
 🔹 **[Django AI Text Extractor](#)**  
 *Django + Python + AI* — Extracts text from PDFs/Images with OCR integration.  
 
-🔹 **[Eskan Bank – Mortgage & Loan Management](#)**  
+🔹 **[Alumni Network Portal](#)**  
 *Spring Boot + Angular + MS SQL Server + AWS S3/SES* —  
 Enterprise mortgage management system with **secure APIs, JWT authentication, automated PDF reporting, and AWS cloud integration**. Improved loan workflow efficiency and reduced manual paperwork by 60%.  
 
 🔹 **[Education & Training Quality Authority – QMS - Bahrain ](#)**  
-*Django + Angular + MySQL + AWS EC2* —  
-Quality Management System for handling **institutional listing, revalidation, and qualification management**. Features **dynamic Angular forms, PDF reporting, dashboards, and role-based workflows** for regulatory bodies.  
+Developed an Alumni Network Portal as an academic project using Python and Django to connect alumni with current students and faculty.
+*Technologies & Libraries Used* - Django, Django REST Framework (DRF) , Bootstrap , Pillow  
 
 
 ## 📫 Connect With Me
